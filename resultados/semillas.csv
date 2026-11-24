@@ -1,0 +1,6 @@
+modelo,epocas,semilla,RMSE,MAE,MAPE
+LSTM (32 ocultas),3,2026,1140.11,901.46,1.17
+LSTM (32 ocultas),3,2027,1135.93,890.79,1.16
+LSTM (32 ocultas),3,2028,1137.16,907.12,1.18
+LSTM (32 ocultas),3,2029,1132.51,900.13,1.17
+LSTM (32 ocultas),3,2030,1133.28,895.11,1.16

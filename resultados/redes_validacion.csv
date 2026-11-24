@@ -1,0 +1,5 @@
+red,parametros,epoca_optima,perdida_val_min,perdida_ent_final,evaluada_backtest
+MLP (16 ocultas),257,36,2.1284,0.1035,True
+MLP (32 ocultas),513,19,2.4551,0.0556,False
+LSTM (32 ocultas),4513,3,3.8274,0.0696,True
+"Transformer (d=16, 2 cabezas)",2273,9,3.4023,0.2034,True

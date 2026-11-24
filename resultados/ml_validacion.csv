@@ -1,0 +1,5 @@
+modelo,rejilla,mejores_parametros,rmse_validacion,segundos_busqueda
+KNN,"{'n_neighbors': [3, 5, 9]}",{'n_neighbors': 9},1683.0,9.92
+SVR,"{'C': [100, 1000, 10000], 'epsilon': [10, 100]}","{'C': 1000, 'epsilon': 10}",1844.43,0.09
+Random Forest,"{'max_depth': [4, 8, None], 'min_samples_leaf': [1, 4]}","{'max_depth': None, 'min_samples_leaf': 1}",1566.06,1.0
+XGBoost,"{'max_depth': [2, 4, 6], 'learning_rate': [0.03, 0.1]}","{'learning_rate': 0.03, 'max_depth': 2}",1587.44,1.54

@@ -31,9 +31,7 @@ del grupo. Si falta algún dato, se advierte en la realimentación.
 
 | Nombre completo | Código | Correo institucional |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| Santiago Correa Campaña | 551476 | santiago.correa_cam@uao.edu.co |
 
 ## Entrega
 
